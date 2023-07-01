@@ -1,11 +1,11 @@
-# LetsUpgrade-Assignment
+# Let'sUpgrade Python Boot Camp: Introduction to Python Programming and Assignments
 
-### Problem Statement :
-Write a Python program that asks the user to enter their age and then prints "You are a minor" if their age is less than 18, 
-"You are an adult" if their age is greater than or equal to 18 and less than 65, 
-and "You are a senior" if their age is 65 or greater.
-### Programming Language : 
-basic python3
-### Concept :
-Conditional statements 
-String formatting
+Let'sUpgrade is organizing a free boot camp consisting of a 3-day program aimed at introducing participants to Python programming. This boot camp provides an opportunity to learn and practice various assignments that cover the fundamentals of Python.
+
+During the boot camp, participants will engage in hands-on exercises and assignments that help apply Python programming knowledge. These assignments cover a wide range of topics, allowing participants to explore and gain expertise in the basics of Python.
+
+By participating in this boot camp and completing the assignments, individuals can enhance their understanding of Python programming and build a strong foundation in the language.
+
+Participants can refer to the assignments to get started and maximize this valuable learning opportunity.
+# 
+ ### Happy coding!
