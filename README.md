@@ -8,7 +8,7 @@ During the boot camp, participants will engage in hands-on exercises and assignm
 By participating in this boot camp and completing the assignments, individuals can enhance their understanding of Python programming and build a strong foundation in the language.
 
 Participants can refer to the assignments to get started and maximize this valuable learning opportunity.
-### Create a Calculator - Project by Given LetsUpgrade :
+### Create a Calculator - Project Given By LetsUpgrade :
 
 Problem Statement: Create a calculator program that performs basic arithmetic operations on two numbers entered by the user. The program should provide a menu of operations for the user to choose from and display the result based on the selected operation. The program should include the following functionalities:
 
