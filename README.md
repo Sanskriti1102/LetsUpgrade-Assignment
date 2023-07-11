@@ -21,12 +21,12 @@ Participating in this boot camp and completing the assignments, helped to unders
 
 Problem Statement: Create a calculator program that performs basic arithmetic operations on two numbers entered by the user. The program should provide a menu of operations for the user to choose from and display the result based on the selected operation. The program should include the following functionalities:
 
--Addition: Add two numbers and display the sum.
--Subtraction: Subtract the smaller number from the larger number and display the result.
--Multiplication: Multiply two numbers and display the product.
--Division: Perform division on two numbers and display the result in decimal form and as an integer quotient.
--Modulus: Calculate the remainder when the first number is divided by the second number and display the result.
--Exit: Terminate the program.
+-Addition: Add two numbers and display the sum. <br>
+-Subtraction: Subtract the smaller number from the larger number and display the result.<br>
+-Multiplication: Multiply two numbers and display the product.<br>
+-Division: Perform division on two numbers and display the result in decimal form and as an integer quotient.<br>
+-Modulus: Calculate the remainder when the first number is divided by the second number and display the result.<br>
+-Exit: Terminate the program.<br>
 
 The program should prompt the user to enter two numbers and their choice of operation. Based on the chosen operation, the program should perform the calculation and display the result accordingly. The program should terminate if the user selects the "Exit" option.
 
