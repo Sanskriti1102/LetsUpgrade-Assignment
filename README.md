@@ -32,5 +32,30 @@ The program should prompt the user to enter two numbers and their choice of oper
 
 Note: The program assumes that the user will enter valid integer values for the numbers and make appropriate choices from the menu.
 
+### 2. DSA Essentials Bootcamp (3 Days):
+
+### About:
+During this boot camp, I had the opportunity to learn and practice the following topics:
+
+-Basics of Java programming
+-DSA algorithm, with a focus on Bubble Sort and optimization techniques
+-Introduction to recursion
+-Completion of a project-Calculator involving optimized concepts
+
+Participating in this boot camp and completing the assignments gave me valuable knowledge and understanding of Java programming.
+
+### Create a Calculator - Project Given By LetsUpgrade :
+
+Problem Statement: Create a Java program that implements a simple calculator to perform basic arithmetic operations on two numbers. The program should present a menu to the user, allowing them to choose from addition, subtraction, multiplication, and division operations. The program should continue to prompt for input until the user selects the "Exit" option.
+
+-The program starts with a welcoming message and displays a menu with options for different arithmetic operations.
+-The user can select an operation by entering the corresponding number from the menu.
+-If the user enters an invalid choice, the program displays a "Wrong choice!!" message and prompts the user to choose again.
+-For each chosen operation, the program requests the user to input two numbers, 'a' and 'b', on which the operation will be performed.
+-After the calculation, the program displays the result to the user.
+-The program uses a switch statement to determine the selected operation and performs the calculation accordingly.
+-If the user chooses to exit (option 5), the program terminates with the message "Exit from Program !!".
+-The program should prompt the user to enter two numbers and their choice of operation. Based on the chosen operation, the program should perform the calculation and display the result accordingly. The program should terminate if the user selects the "Exit" option.
+
 # 
  ### Happy coding!
