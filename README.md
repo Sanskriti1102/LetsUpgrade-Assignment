@@ -44,6 +44,8 @@ During this boot camp, I had the opportunity to learn and practice the following
 
 Participating in this boot camp and completing the assignments gave me valuable knowledge and understanding of Java programming.
 
+#### Project Link 🔗 
+
 ### Create a Calculator - Project Given By LetsUpgrade :
 
 Problem Statement: Create a Java program that implements a simple calculator to perform basic arithmetic operations on two numbers. The program should present a menu to the user, allowing them to choose from addition, subtraction, multiplication, and division operations. The program should continue to prompt for input until the user selects the "Exit" option.
@@ -57,5 +59,6 @@ Problem Statement: Create a Java program that implements a simple calculator to 
 -If the user chooses to exit (option 5), the program terminates with the message "Exit from Program !!".
 -The program should prompt the user to enter two numbers and their choice of operation. Based on the chosen operation, the program should perform the calculation and display the result accordingly. The program should terminate if the user selects the "Exit" option.
 
+#### Project Link 🔗
 # 
  ### Happy coding!
